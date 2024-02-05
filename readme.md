@@ -1,5 +1,6 @@
 W2C backend
 Pandabuy Products Backend
+
 Overview
 This backend service is designed to fetch product data from CSV files, process the information, and upload it to Firebase Firestore. Additionally, it interacts with the Pandabuy platform to retrieve detailed product information such as sales, images, weight, dimensions, and more.
 
